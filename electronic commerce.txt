@@ -16,3 +16,15 @@ attract more and more buyers and sellers, who are then weaned away from
 other auction sites. eBay’s success forced many other auction sites to shut 
 down. Recently, an auction site run by Yahoo! had to shut down as it could 
 not attract enough visitors.
+
+9.4 E-Business
+E-business refers to the manner in which modern commercial organisations 
+create information links and conduct business. In contrast to the purpose of 
+e-commerce which is to conduct commercial transactions with customers 
+through buying, selling, auctions, and searching, the purpose of e-business 
+is to enhance the internal functioning of organisations by using the facilities 
+of the Internet. E-business enables firms to maintain a rich information 
+interchange with their partners, collaborators, and suppliers. E-business 
+relies on either the open HTML standard or proprietary data exchange 
+standards. The main economic benefit of e-business is reduced transaction 
+costs. 
