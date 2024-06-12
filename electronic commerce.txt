@@ -1,0 +1,18 @@
+buyer. One of the most successful online auction sites is eBay, which is an 
+example of a C2C e-commerce site. eBay’s website allows anyone to list 
+products that they want to be auctioned. When sellers list their products, they 
+fill out a form on eBay that allows them to describe the product, provide a 
+picture of it, and also specify a base price that they want for it. 
+After the form filling, the product is listed on eBay’s site, and bidding by buyers 
+is permitted for a fixed period of time, usually one week. Bidding brings up the 
+price, and at the close of the bidding period, the bid of the highest bidder is 
+accepted, and he/she is declared the winner. The buyer and the seller then 
+exchange money and goods independently of eBay. After the auction, eBay 
+permits buyers and sellers to rate each other. This rating is publicly declared 
+and forms a basis for building the reputations of buyers and sellers. Sellers 
+with high ratings are able to attract more and higher bids for their products. 
+Auction sites are subject to strong network effects. Successful auction sites 
+attract more and more buyers and sellers, who are then weaned away from 
+other auction sites. eBay’s success forced many other auction sites to shut 
+down. Recently, an auction site run by Yahoo! had to shut down as it could 
+not attract enough visitors.
