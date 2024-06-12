@@ -17,6 +17,26 @@ other auction sites. eBay’s success forced many other auction sites to shut
 down. Recently, an auction site run by Yahoo! had to shut down as it could 
 not attract enough visitors.
 
+<<<<<<< HEAD
+9.3.10 Aggregators
+E-commerce is also used extensively by businesses to transact with each 
+other. These are called B2B e-commerce transactions. B2B e-commerce 
+differs from B2C e-commerce in several ways, some of which are listed as 
+follows.
+1. B2C transactions are ad hoc in nature, with one seller, like 
+Amazon.com, selling to customers in a single transaction. B2B 
+transactions involve many buyers and many sellers in the market who 
+establish long-term purchasing contracts.
+2. The value of transactions in B2C is low as compared to those in B2B 
+markets. The latter may involve millions of rupees for a single 
+transaction. 
+3. The delivery schedule and timing of goods purchased are of critical 
+importance in B2B e-commerce. Firms use these marketplaces to 
+manage their supply chains and hence require a high degree of 
+commitment in terms of delivery. 
+4. As opposed to B2C, B2B markets do not have fixed prices and may 
+involve auctions of goods. 
+=======
 9.4 E-Business
 E-business refers to the manner in which modern commercial organisations 
 create information links and conduct business. In contrast to the purpose of 
@@ -28,3 +48,4 @@ interchange with their partners, collaborators, and suppliers. E-business
 relies on either the open HTML standard or proprietary data exchange 
 standards. The main economic benefit of e-business is reduced transaction 
 costs. 
+>>>>>>> master
